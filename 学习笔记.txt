@@ -1,0 +1,2 @@
+1. web-app元素在servlet中定义,需要引入servlet-api.jar包，web.xml中使用3.0版本，则servlet同样要使用3.0版本
+2. web-app元素中的配置，在jstl中定义，需要引入jstl-api.jar包
